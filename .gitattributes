@@ -1,0 +1,8 @@
+videoFilmaAl.psd filter=lfs diff=lfs merge=lfs -text
+videoInstagram.psd filter=lfs diff=lfs merge=lfs -text
+videoRealestate.psd filter=lfs diff=lfs merge=lfs -text
+videoTweety.psd filter=lfs diff=lfs merge=lfs -text
+videoFilmaAl.mp4 filter=lfs diff=lfs merge=lfs -text
+videoTweety.mp4 filter=lfs diff=lfs merge=lfs -text
+videoRealestate.webm filter=lfs diff=lfs merge=lfs -text
+videoInstagram.webm filter=lfs diff=lfs merge=lfs -text
